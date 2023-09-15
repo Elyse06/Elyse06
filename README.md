@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Elyse06
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning full-stack java script
+- 🌱 I’m currently learning full-stack JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
